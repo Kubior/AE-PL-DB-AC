@@ -1,4 +1,4 @@
-!test - Testowy poradnik
-!test test - Znów jakis typ
-!test test test - Idzie sobie drogą
-!testtest - a no
+!poradniki test - Testowy poradnik
+!poradniki test test - Znów jakis typ
+!poradniki test test test - Idzie sobie drogą
+!poradniki testtest - a no
