@@ -1,1 +1,2 @@
-poradniki(space)poradnikiCommand(arguments, receivedMessage)||test(space)console.log('test');
+poradniki//poradnikiCommand(arguments, receivedMessage)
+test//console.log('test');
