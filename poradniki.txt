@@ -13,3 +13,6 @@ poradnika
 opis
 kolejny opis jakiegos
 poradnika
+
+//test test test||
+długi długi
