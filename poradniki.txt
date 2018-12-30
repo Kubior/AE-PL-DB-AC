@@ -1,0 +1,14 @@
+komenda:opis;komenda:opis
+
+
+
+
+komenda
+	opis
+komendaAlternatwna
+	opisAlternatywny
+
+komenda
+	opis
+komenda
+	opis
