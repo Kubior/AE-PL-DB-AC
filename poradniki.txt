@@ -1,14 +1,15 @@
-komenda:opis;komenda:opis
+test||
+opis
+jakiegoś
+poradnika
+tytyty
 
+//test test||
+opis
+kolejny opis jakiegos
+poradnika
 
-
-
-komenda
-	opis
-komendaAlternatwna
-	opisAlternatywny
-
-komenda
-	opis
-komenda
-	opis
+//testtest||
+opis
+kolejny opis jakiegos
+poradnika
