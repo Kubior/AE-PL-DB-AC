@@ -1,1 +1,1 @@
-!poradnik - dostęp do listy poradników
+!poradniki - dostęp do listy poradników
