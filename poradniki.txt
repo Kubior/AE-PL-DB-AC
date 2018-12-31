@@ -4,6 +4,10 @@ https://app.destinyitemmanager.com/ ← Przeglądarkowa wersja aplikacji na kom�
 
 https://www.light.gg/director/ ← Tak jak wyżej + większy nacisk na ukonczenie wszystkich wyzwań.
 
+//xur||
+
+https://c-8oqtgrjgwu46x24uvcvkex2eicogurqvx2eeqo.g00.gamespot.com/g00/3_c-8yyy.icogurqv.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fuvcvke.icogurqv.eqox2fwrnqcfux2fuecng_uwrgtx2f3703x2f37033596x2f5604387-fguvkpax2b4x2bzwtx2bqpx2bvkvcp.lrix3fk32e.octmx3dkocig_$/$/$/$/$/$
+
 //ściągi||
 
 !poradniki ściągi cotygodniowe engramy ← Lista rzeczy do zrobienia prze każdym restartem(co wtorek, godz. 18 CET).
@@ -52,6 +56,12 @@ https://cdn.discordapp.com/attachments/519961367713677341/520118800129982474/EG_
 //zbrojowania||
 
 !poradniki zbrojownia whisper ← Poradnik pomagający w zdobyciu katalizatora do snajperki Whisper of the worm
+!poradniki zbrojownia mars ← Poradniki dotyczące Marsa
+!poradniki zbrojowania chaperon ← Poradnik pomagający zdobyć exotyczny shoutgun o nazwie chaperon
+
+//zbrojowania chaperon||
+
+https://www.shacknews.com/article/107139/how-to-get-the-chaperone-in-destiny-2
 
 //zbrojowania whisper||
 
@@ -62,6 +72,12 @@ https://www.polygon.com/destiny-2-guide-walkthrough/2018/7/24/17604682/whisper-m
 !poradniki zbrojownia mars hologramy ← Poradnik video do zebrania wsyzstkich znajdziek na marsie i dzięki temu uzyskanie egoztycznego miecza Zerowa linia świata jak i exotycznego pojazdu
 
 !poradniki zbrojownia mars zaginione wersy ← Tekstowy poradnik do odblokowania exotycznego ducha jak i specjalnych broni
+
+!poradniki zbrojownia mars eskalacja ← Lista możliwych dropów z eskalacji na marsie z podanymi ramami czasowymi
+
+//zbrojownia mars eskalacja||
+
+https://cdn.discordapp.com/attachments/519961367713677341/524139070046076946/unknown.png
 
 //zbrojownia mars hologramy||
 
@@ -126,6 +142,12 @@ Bullet Spray: SMG/LMG/AR kills
 
 !poradniki śniące miasto corupted eggs ← Artykuł zawierający opis jak i filmy video z lokalizacjami zepsutych jaj
 
+!poradniki śniące miasto wyzwanie wstąpienia ← Lokalizacja aktualnego cotygodniowego wyzwania.
+
+//śniące miasto wyzwanie wstąpienia||
+
+https://www.youtube.com/watch?v=mGbvfYRgpoI
+
 //śniące miasto gdzie znajdę tolanda||
 
 https://www.shacknews.com/article/107385/challenge-the-shattered-toland-located-in-destiny-2
@@ -142,6 +164,7 @@ https://www.shacknews.com/article/107725/all-corrupted-egg-locations-in-destiny-
 
 !poradniki rajdy leviatan ← Zbiór pomocnych materiałów.
 !poradniki rajdy last wish ← Zbiór pomocnych materiałów
+!poradniki rajdy bicz ← Zbiór pomocnych materiałów.
 
 //rajdy last wish||
 
@@ -173,4 +196,12 @@ https://cdn.discordapp.com/attachments/519961367713677341/522880258492465174/Des
 https://i.imgur.com/MjdNV4r.jpg
 https://cdn.vox-cdn.com/thumbor/mCA9YjqiuNZSu333gjlEpGi_VgM=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9416909/pleasuregardens2.png
 
+//rajdy bicz||
+
+!poradniki rajdy bicz ściągi ← Zbiór pomocnych materiałów.
+
+//rajdy bicz ściągi||
+
+https://i.imgur.com/E3Zpb38.jpg
+https://pbs.twimg.com/media/DnZlGLRU4AIGiMf.jpg
 
