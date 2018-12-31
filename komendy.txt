@@ -1,2 +1,2 @@
-poradniki//poradnikiCommand(arguments, receivedMessage)
+poradniki//poradnikiCommand(argumentss, receivedMessage)
 test//console.log('Taki cwany lisek jesteś :smile:');
