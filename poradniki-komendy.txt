@@ -2,7 +2,7 @@
 !poradniki xur ← placeholder
 !poradniki sciagi ← placeholder
 !poradniki zbrojownia ← placeholder
-!poradniki wydarzenia świtanie ← placeholder
+!poradniki wydarzenia switanie ← placeholder
 !poradniki sniace miasto ← placeholder
 !poradniki rajdy ← placeholder
 
