@@ -4,11 +4,11 @@ https://app.destinyitemmanager.com/ ← Przeglądarkowa wersja aplikacji na kom�
 
 https://www.light.gg/director/ ← Tak jak wyżej + większy nacisk na ukonczenie wszystkich wyzwań.
 
-//\\xur||
+|||xur||
 
 https://c-8oqtgrjgwu46x24uvcvkex2eicogurqvx2eeqo.g00.gamespot.com/g00/3_c-8yyy.icogurqv.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fuvcvke.icogurqv.eqox2fwrnqcfux2fuecng_uwrgtx2f3703x2f37033596x2f5604387-fguvkpax2b4x2bzwtx2bqpx2bvkvcp.lrix3fk32e.octmx3dkocig_$/$/$/$/$/$
 
-//\\ściągi||
+|||ściągi||
 
 !poradniki ściągi cotygodniowe engramy ← Lista rzeczy do zrobienia przed każdym restartem(co wtorek, godz. 18 CET).
 
@@ -16,7 +16,7 @@ https://c-8oqtgrjgwu46x24uvcvkex2eicogurqvx2eeqo.g00.gamespot.com/g00/3_c-8yyy.i
 
 !poradniki ściągi najszybsze strajki ← Lista strajków z załączonymi czasami
 
-//\\ściągi najszybsze strajki
+|||ściągi najszybsze strajki
 
 2:12    Ice and Shadow - Mars (Eclipse)
 4:08    A Deadly Trial - Earth    (TK_Anteiku)
@@ -44,30 +44,30 @@ https://c-8oqtgrjgwu46x24uvcvkex2eicogurqvx2eeqo.g00.gamespot.com/g00/3_c-8yyy.i
 15:13    Combustion - EDZ
 19:18    Last Call - Tangled Shore
 
-//\\ściągi cotygodniowe engramy||
+|||ciągi cotygodniowe engramy||
 
 https://media.discordapp.net/attachments/512377479957053442/519549553368891423/Destiny-2-Infographic-Power-Level-600.png?width=1442&height=664
 
-//\\ściągi kalendarz nowego contentu||
+|||ściągi kalendarz nowego contentu||
 
 https://cdn.discordapp.com/attachments/519961367713677341/520118771298467860/D2_annual_pass_roadmap_final_final_PL.png
 https://cdn.discordapp.com/attachments/519961367713677341/520118800129982474/EG_Black_Armory_Timeline_PL.png
 
-//\\zbrojownia||
+|||zbrojownia||
 
 !poradniki zbrojownia whisper ← Poradnik pomagający w zdobyciu katalizatora do snajperki Whisper of the worm
 !poradniki zbrojownia mars ← Poradniki dotyczące Marsa
 !poradniki zbrojownia chaperon ← Poradnik pomagający zdobyć egotyczny shotgun o nazwie chaperon
 
-//\\zbrojownia chaperon||
+|||zbrojownia chaperon||
 
 https://www.shacknews.com/article/107139/how-to-get-the-chaperone-in-destiny-2
 
-//\\zbrojownia whisper||
+|||zbrojownia whisper||
 
 https://www.polygon.com/destiny-2-guide-walkthrough/2018/7/24/17604682/whisper-mission-blueprint-blighted-essence-chest-ship-blueprint-secret-worm-io-jys2-sleeper-catalyst
 
-//\\zbrojownia mars||
+|||zbrojownia mars||
 
 !poradniki zbrojownia mars hologramy ← Poradnik video do zebrania wszystkich znajdziek na marsie i dzięki temu uzyskanie egzotycznego miecza Zerowa linia świata jak i egzotycznego pojazdu
 
@@ -75,26 +75,26 @@ https://www.polygon.com/destiny-2-guide-walkthrough/2018/7/24/17604682/whisper-m
 
 !poradniki zbrojownia mars eskalacja ← Lista możliwych dropów z eskalacji na marsie z podanymi ramami czasowymi
 
-//\\zbrojownia mars eskalacja||
+|||zbrojownia mars eskalacja||
 
 https://cdn.discordapp.com/attachments/519961367713677341/524139070046076946/unknown.png
 
-//\\zbrojownia mars hologramy||
+|||zbrojownia mars hologramy||
 
 https://www.youtube.com/watch?v=O4TC0KAtmo0
 https://imgur.com/gallery/ZoequAb
 
-//\\zbrojownia mars zaginione wersy||
+|||zbrojownia mars zaginione wersy||
 
 https://www.eurogamer.net/articles/2018-01-30-destiny-2-lost-prophecy-verses-weapons-radioladian-culture-paradox-amplifier-hermaion-blossom-4747
 
-//\\wydarzenia świtanie||
+|||wydarzenia świtanie||
 
 !wydarzenia świtanie przepisy ← Zbiór wszystkich przepisów z wydarzenia Świtania.
 
 !wydarzenia świtanie składniki ← Lista składników i jak je można zdobyć
 
-//\\wydarzenia świtanie przepisy||
+|||wydarzenia świtanie przepisy||
 
 https://www.forbes.com/sites/davidthier/2018/12/11/destiny-2s-the-dawning-all-cookie-recipes-and-who-to-give-them-to/#31401aab5291
 
@@ -102,7 +102,7 @@ https://cdn.discordapp.com/attachments/519961367713677341/522387371115806720/unk
 
 https://cdn.discordapp.com/attachments/519961367713677341/522771099403157505/4b91c84ee06690afacfdbda8a8ec14b3.png
 
-//\\wydarzenia świtanie składniki||
+|||wydarzenia świtanie składniki||
 
 Vex Milk: Vex enemies
 
@@ -134,7 +134,7 @@ Perfect Taste: Precision kills
 
 Bullet Spray: SMG/LMG/AR kills
 
-//\\śniące miasto||
+|||śniące miasto||
 
 !poradniki śniące miasto gdzie znajdę tolanda ← Artykuł pomagający w ukończeniu misji w której nalezy poszukac Tolanda.
 
@@ -144,63 +144,63 @@ Bullet Spray: SMG/LMG/AR kills
 
 !poradniki śniące miasto wyzwanie wstąpienia ← Lokalizacja aktualnego cotygodniowego wyzwania.
 
-//\\śniące miasto wyzwanie wstąpienia||
+|||śniące miasto wyzwanie wstąpienia||
 
 https://www.youtube.com/watch?v=mGbvfYRgpoI
 
-//\\śniące miasto gdzie znajdę tolanda||
+|||śniące miasto gdzie znajdę tolanda||
 
 https://www.shacknews.com/article/107385/challenge-the-shattered-toland-located-in-destiny-2
 
-//\\śniące miasto ukryte skrzynie||
+|||śniące miasto ukryte skrzynie||
 
 https://www.youtube.com/watch?v=SQPtXO9S7qo&feature=youtu.be
 
-//\\śniące miasto corrupted eggs||
+|||śniące miasto corrupted eggs||
 
 https://www.shacknews.com/article/107725/all-corrupted-egg-locations-in-destiny-2#d2-last-wish
 
-//\\rajdy||
+|||rajdy||
 
 !poradniki rajdy leviatan ← Zbiór pomocnych materiałów.
 !poradniki rajdy last wish ← Zbiór pomocnych materiałów
 !poradniki rajdy bicz ← Zbiór pomocnych materiałów.
 
-//\\rajdy last wish||
+|||rajdy last wish||
 
 !poradniki rajdy last wish ściągi ← Zbiór pomocnych materiałów.
 !poradniki rajdy last wish bossowie ← Filmy video pomocne przy spotkaniach z bossami.
 !poradniki rajdy last wish kody do skrzyń ← Kody do skrzyń z rajdu
 
-//\\rajdy last wish ściągi||
+|||rajdy last wish ściągi||
 
 https://i.imgur.com/E3Zpb38.jpg
 https://pbs.twimg.com/media/DnZlGLRU4AIGiMf.jpg
 
-//\\rajdy last wish bossowie||
+|||rajdy last wish bossowie||
 
 https://www.youtube.com/watch?v=mj6qnB1g7nU
 https://www.youtube.com/watch?v=bBjwtzkE_Kw
 
-//\\rajdy last wish kody do skrzyń||
+|||rajdy last wish kody do skrzyń||
 
 https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/09/destiny-2-wish-5-fifth-wish.jpg
 https://cdn.discordapp.com/attachments/519961367713677341/522880258492465174/Destiny-2-Forsaken-Last-Wish-Raid-Fourth-Wish.jpg
 
-//\\rajdy leviatan||
+|||rajdy leviatan||
 
 !poradniki rajdy leviatan ściągi ← Pomocne materiały podczas rajdu Leviatan
 
-//\\rajdy leviatan ściągi||
+|||rajdy leviatan ściągi||
 
 https://i.imgur.com/MjdNV4r.jpg
 https://cdn.vox-cdn.com/thumbor/mCA9YjqiuNZSu333gjlEpGi_VgM=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9416909/pleasuregardens2.png
 
-//\\rajdy bicz||
+|||rajdy bicz||
 
 !poradniki rajdy bicz ściągi ← Zbiór pomocnych materiałów.
 
-//\\rajdy bicz ściągi||
+|||rajdy bicz ściągi||
 
 https://i.imgur.com/E3Zpb38.jpg
 https://pbs.twimg.com/media/DnZlGLRU4AIGiMf.jpg
