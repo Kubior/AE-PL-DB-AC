@@ -7,7 +7,38 @@ https://www.light.gg/director/ ← Tak jak wyżej + większy nacisk na ukonczeni
 //ściągi||
 
 !poradniki ściągi cotygodniowe engramy ← Lista rzeczy do zrobienia prze każdym restartem(co wtorek, godz. 18 CET).
+
 !poradniki ściągi kalendarz nowego contentu ← Kalendarz dla najnowszego contentu planowanego przez Bungie.
+
+!poradniki ściągi najszybsze strajki ← Lista strajków z załączonymi czazsami
+
+//ściągi najszybsze strajki
+
+2:12    Ice and Shadow - Mars (Eclipse)
+4:08    A Deadly Trial - Earth    (TK_Anteiku)
+4:43    A Garden World - Mercury (TriPlexity)
+5:43    Larceny - EDZ    (Hikaru)
+4:35    Hijacked - Nessus (Apherion)
+5:18    The Gateway - Mercury
+6:45*    Hope - Titan    (dadilydo)
+6:45*    Deep Storage - Io    (dadilydo)
+7:00    Pilgrimage - Mars    (Cryptonomicron)
+7:31    Riptide - Titan
+7:45*    Homecoming - Earth    (dadilydo)
+4:45    Looped - Nessus (Vinrada)
+5:45*    Unbroken - EDZ    (dadilydo)
+6:40    Utopia - Titan
+7:45*    Sacrilege - Io    (dadilydo)
+8:05    Chosen - Earth    (DufvA)
+9:45*    Fury - Io    (dadilydo)
+10:05    High Plains Blues - Tangled Shore (Shadoxs)
+10:50    Scorned - Tangled Shore
+11:45*    Beyond Infinity - Mercury    (dadilydo)
+11:45*    Omega [Panoptes] - Mercury    (dadilydo)
+12:35    Six - Nessus
+12:45*    1AU - The Almighty    (dadilydo)
+15:13    Combustion - EDZ
+19:18    Last Call - Tangled Shore
 
 //ściągi cotygodniowe engramy||
 
@@ -30,7 +61,116 @@ https://www.polygon.com/destiny-2-guide-walkthrough/2018/7/24/17604682/whisper-m
 
 !poradniki zbrojownia mars hologramy ← Poradnik video do zebrania wsyzstkich znajdziek na marsie i dzięki temu uzyskanie egoztycznego miecza Zerowa linia świata jak i exotycznego pojazdu
 
+!poradniki zbrojownia mars zaginione wersy ← Tekstowy poradnik do odblokowania exotycznego ducha jak i specjalnych broni
+
 //zbrojownia mars hologramy||
 
 https://www.youtube.com/watch?v=O4TC0KAtmo0
 https://imgur.com/gallery/ZoequAb
+
+//zbrojownia mars zaginione wersy||
+
+https://www.eurogamer.net/articles/2018-01-30-destiny-2-lost-prophecy-verses-weapons-radioladian-culture-paradox-amplifier-hermaion-blossom-4747
+
+//wydarzenia świtanie||
+
+!wydarzenia świtanie przepisy ← Zbiór wszystkich przepisów z wydarzenia Świtania.
+
+!wydarzenia świtanie składniki ← Lista składników i jak je można zdobyć
+
+//wydarzenia świtanie przepisy||
+
+https://www.forbes.com/sites/davidthier/2018/12/11/destiny-2s-the-dawning-all-cookie-recipes-and-who-to-give-them-to/#31401aab5291
+
+https://cdn.discordapp.com/attachments/519961367713677341/522387371115806720/unknown.png
+
+https://cdn.discordapp.com/attachments/519961367713677341/522771099403157505/4b91c84ee06690afacfdbda8a8ec14b3.png
+
+//wydarzenia świtanie składniki||
+
+Vex Milk: Vex enemies
+
+Ether Cane: Fallen enemies
+
+Cabal Oil: Cabal enemies
+
+Chitin Powder: Hive enemies
+
+Taken Butter: Taken enemies
+
+Dark Ether Cane: Scorn enemies
+
+Delicious Explosion: Grenade/Rocket Launcher/Grenade Launcher kills
+
+Sharp Flavor: Sword kills
+
+Impossible Heat: Solar damage kills
+
+Electric Flavor: Arc damage kills
+
+Null Taste: Void damage kills
+
+Flash of Inspiration: Orbs generated
+
+Personal Touch: Melee kills
+
+Perfect Taste: Precision kills
+
+Bullet Spray: SMG/LMG/AR kills
+
+//śniące miasto||
+
+!poradniki śniące miasto gdzie znajdę tolanda ← Artykuł pomagający w ukonczeniu misji w ktorej nalezy odszukac Tolanda.
+
+!poradniki śniące miasto ukryte skrzynie ← Film video pokazujące wszyzstkie ukryte skrzynie w stanie wstąpienia.
+
+!poradniki śniące miasto corupted eggs ← Artykuł zawierający opis jak i filmy video z lokalizacjami zepsutych jaj
+
+//śniące miasto gdzie znajdę tolanda||
+
+https://www.shacknews.com/article/107385/challenge-the-shattered-toland-located-in-destiny-2
+
+//śniące miasto ukryte skrzynie||
+
+https://www.youtube.com/watch?v=SQPtXO9S7qo&feature=youtu.be
+
+//śniące miasto corupted eggs||
+
+https://www.shacknews.com/article/107725/all-corrupted-egg-locations-in-destiny-2#d2-last-wish
+
+//rajdy||
+
+!poradniki rajdy leviatan ← Zbiór pomocnych materiałów.
+!poradniki rajdy last wish ← Zbiór pomocnych materiałów
+
+//rajdy last wish||
+
+!poradniki rajdy last wish ściągi ← Zbiór pomocnych materiałów.
+!poradniki rajdy last wish bossowie ← Filmy video pomocne przy spotkaniach z bosami.
+!poradniki rajdy last wish kody do skrzyń ← Kody do skrzyń z rajdu
+
+//rajdy last wish ściągi||
+
+https://i.imgur.com/E3Zpb38.jpg
+https://pbs.twimg.com/media/DnZlGLRU4AIGiMf.jpg
+
+//rajdy last wish bossowie||
+
+https://www.youtube.com/watch?v=mj6qnB1g7nU
+https://www.youtube.com/watch?v=bBjwtzkE_Kw
+
+//rajdy last wish kody do skrzyń||
+
+https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/09/destiny-2-wish-5-fifth-wish.jpg
+https://cdn.discordapp.com/attachments/519961367713677341/522880258492465174/Destiny-2-Forsaken-Last-Wish-Raid-Fourth-Wish.jpg
+
+//rajdy leviatan||
+
+!poradniki rajdy leviatan ściągi ← Pomocne materiały podczas rajdu Leviatan
+
+//rajdy leviatan ściągi||
+
+https://i.imgur.com/MjdNV4r.jpg
+https://cdn.vox-cdn.com/thumbor/mCA9YjqiuNZSu333gjlEpGi_VgM=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9416909/pleasuregardens2.png
+
+
