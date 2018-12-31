@@ -1,4 +1,7 @@
-!poradniki test - Testowy poradnik
-!poradniki test test - Znów jakis typ
-!poradniki test test test - Idzie sobie drogą
-!poradniki testtest - a no
+!poradniki przydatne aplikacje ← placeholder
+!poradniki xur ← placeholder
+!poradniki ściągi ← placeholder
+!poradniki zbrojownia ← placeholder
+!poradniki wydarzenia świtanie ← placeholder
+!poradniki śniące miasto ← placeholder
+!poradniki rajdy ← placeholder
