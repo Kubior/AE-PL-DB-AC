@@ -1,6 +1,6 @@
 przydatne aplikacje||
 
-https://app.destinyitemmanager.com/ ← Przeglądarkowa wersja aplikacji na komórke(Destiny 2). Możiwość przesyłania itemów z banku, pomoce przy wykonywaniu questow, dane statystyczne z tygla lub gambita i wiele innych.
+https://app.destinyitemmanager.com/ ← Przeglądarkowa wersja aplikacji na komórke(Destiny 2). Możliwość przesyłania itemów z banku, pomoce przy wykonywaniu questów, dane statystyczne z tygla lub gambita i wiele innych.
 
 https://www.light.gg/director/ ← Tak jak wyżej + większy nacisk na ukonczenie wszystkich wyzwań.
 
@@ -10,11 +10,11 @@ https://c-8oqtgrjgwu46x24uvcvkex2eicogurqvx2eeqo.g00.gamespot.com/g00/3_c-8yyy.i
 
 //ściągi||
 
-!poradniki ściągi cotygodniowe engramy ← Lista rzeczy do zrobienia prze każdym restartem(co wtorek, godz. 18 CET).
+!poradniki ściągi cotygodniowe engramy ← Lista rzeczy do zrobienia przed każdym restartem(co wtorek, godz. 18 CET).
 
 !poradniki ściągi kalendarz nowego contentu ← Kalendarz dla najnowszego contentu planowanego przez Bungie.
 
-!poradniki ściągi najszybsze strajki ← Lista strajków z załączonymi czazsami
+!poradniki ściągi najszybsze strajki ← Lista strajków z załączonymi czasami
 
 //ściągi najszybsze strajki
 
@@ -53,25 +53,25 @@ https://media.discordapp.net/attachments/512377479957053442/519549553368891423/D
 https://cdn.discordapp.com/attachments/519961367713677341/520118771298467860/D2_annual_pass_roadmap_final_final_PL.png
 https://cdn.discordapp.com/attachments/519961367713677341/520118800129982474/EG_Black_Armory_Timeline_PL.png
 
-//zbrojowania||
+//zbrojownia||
 
 !poradniki zbrojownia whisper ← Poradnik pomagający w zdobyciu katalizatora do snajperki Whisper of the worm
 !poradniki zbrojownia mars ← Poradniki dotyczące Marsa
-!poradniki zbrojowania chaperon ← Poradnik pomagający zdobyć exotyczny shoutgun o nazwie chaperon
+!poradniki zbrojownia chaperon ← Poradnik pomagający zdobyć egotyczny shotgun o nazwie chaperon
 
-//zbrojowania chaperon||
+//zbrojownia chaperon||
 
 https://www.shacknews.com/article/107139/how-to-get-the-chaperone-in-destiny-2
 
-//zbrojowania whisper||
+//zbrojownia whisper||
 
 https://www.polygon.com/destiny-2-guide-walkthrough/2018/7/24/17604682/whisper-mission-blueprint-blighted-essence-chest-ship-blueprint-secret-worm-io-jys2-sleeper-catalyst
 
 //zbrojownia mars||
 
-!poradniki zbrojownia mars hologramy ← Poradnik video do zebrania wsyzstkich znajdziek na marsie i dzięki temu uzyskanie egoztycznego miecza Zerowa linia świata jak i exotycznego pojazdu
+!poradniki zbrojownia mars hologramy ← Poradnik video do zebrania wszystkich znajdziek na marsie i dzięki temu uzyskanie egzotycznego miecza Zerowa linia świata jak i egzotycznego pojazdu
 
-!poradniki zbrojownia mars zaginione wersy ← Tekstowy poradnik do odblokowania exotycznego ducha jak i specjalnych broni
+!poradniki zbrojownia mars zaginione wersy ← Tekstowy poradnik do odblokowania egzotycznego ducha jak i specjalnych broni
 
 !poradniki zbrojownia mars eskalacja ← Lista możliwych dropów z eskalacji na marsie z podanymi ramami czasowymi
 
@@ -136,11 +136,11 @@ Bullet Spray: SMG/LMG/AR kills
 
 //śniące miasto||
 
-!poradniki śniące miasto gdzie znajdę tolanda ← Artykuł pomagający w ukonczeniu misji w ktorej nalezy odszukac Tolanda.
+!poradniki śniące miasto gdzie znajdę tolanda ← Artykuł pomagający w ukończeniu misji w której nalezy poszukac Tolanda.
 
-!poradniki śniące miasto ukryte skrzynie ← Film video pokazujące wszyzstkie ukryte skrzynie w stanie wstąpienia.
+!poradniki śniące miasto ukryte skrzynie ← Film wideo pokazujące wszystkie ukryte skrzynie w stanie wstąpienia.
 
-!poradniki śniące miasto corupted eggs ← Artykuł zawierający opis jak i filmy video z lokalizacjami zepsutych jaj
+!poradniki śniące miasto corrupted eggs ← Artykuł zawierający opis jak i filmy video z lokalizacjami zepsutych jaj
 
 !poradniki śniące miasto wyzwanie wstąpienia ← Lokalizacja aktualnego cotygodniowego wyzwania.
 
@@ -156,7 +156,7 @@ https://www.shacknews.com/article/107385/challenge-the-shattered-toland-located-
 
 https://www.youtube.com/watch?v=SQPtXO9S7qo&feature=youtu.be
 
-//śniące miasto corupted eggs||
+//śniące miasto corrupted eggs||
 
 https://www.shacknews.com/article/107725/all-corrupted-egg-locations-in-destiny-2#d2-last-wish
 
@@ -169,7 +169,7 @@ https://www.shacknews.com/article/107725/all-corrupted-egg-locations-in-destiny-
 //rajdy last wish||
 
 !poradniki rajdy last wish ściągi ← Zbiór pomocnych materiałów.
-!poradniki rajdy last wish bossowie ← Filmy video pomocne przy spotkaniach z bosami.
+!poradniki rajdy last wish bossowie ← Filmy video pomocne przy spotkaniach z bossami.
 !poradniki rajdy last wish kody do skrzyń ← Kody do skrzyń z rajdu
 
 //rajdy last wish ściągi||
@@ -204,4 +204,7 @@ https://cdn.vox-cdn.com/thumbor/mCA9YjqiuNZSu333gjlEpGi_VgM=/800x0/filters:no_up
 
 https://i.imgur.com/E3Zpb38.jpg
 https://pbs.twimg.com/media/DnZlGLRU4AIGiMf.jpg
+
+
+
 
